@@ -1,0 +1,9 @@
+
+Financial Analysis
+-------------------------------
+total months 86
+profit losses 38382578
+Greatest increase in profits 1926159
+Month of Greatest profit Feb-2012
+Greatest decrease in Profits -2196167
+Month of Greatest Decrease Sep-2013
