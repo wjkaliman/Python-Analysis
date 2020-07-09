@@ -14,7 +14,7 @@
   
   
   
-  # The second data set is call PyPoll. I used Python to analyis the dataset. I will be answering the following questions.
+  # The second data set is call PyPoll. I used Python to analyis voting records. I will be answering the following questions.
   
   * The total number of votes cast
 
